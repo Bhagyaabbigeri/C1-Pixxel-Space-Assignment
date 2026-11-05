@@ -1,0 +1,14 @@
+name,       lat_deg,    lon_deg,   alt_m,  min_elevation_deg,  bands,    max_uplink_power_dbw
+
+
+Bengaluru,     12.97,      77.59,     920,     5.0,    S;X,      47.0
+Svalbard,      78.23,      15.39,     450,     5.0,    S;X,      50.0
+Punta Arenas, -53.16,     -70.91,     30,      5.0,    S;X,      48.0
+
+
+
+
+
+
+
+
