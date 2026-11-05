@@ -14,6 +14,7 @@ C1-Pixxel-Space-Assignment/
 ├── tle.txt                  # TLE sets for KESTREL-1 through KESTREL-6
 ├── ground_stations.csv      # Geodetic coordinates + 5° elevation masks
 ├── passes_48h.csv           # Provided baseline schedule (264 rows, with defects)
+├── C1-report.md             # Complete written Report & Decision Record (submitted on portal)
 ├── c1_pass_prediction.py    # Standalone prediction + comparison script
 ├── passes_predicted.csv     # OUTPUT — predicted schedule (262 rows, ~27 KB)
 ├── passes_diff.csv          # OUTPUT — discrepancy report (43 rows, ~8 KB)
